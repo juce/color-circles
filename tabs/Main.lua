@@ -3,6 +3,7 @@
 -- Use this function to perform your initial setup
 function setup()
     print("Hello World!")
+    print("Ура, шарики!")
     
     balloons = {}
     count = 0
