@@ -3,7 +3,9 @@
 -- Use this function to perform your initial setup
 function setup()
     print("Hello World!")
-    print("Ура, шарики! cool шарики")    
+    print([[
+Ура, шарики! cool шарики
+    ]])
     balloons = {}
     count = 0
     
