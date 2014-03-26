@@ -2,7 +2,8 @@
 
 -- Use this function to perform your initial setup
 function setup()
-    print("Touch and drag to create a moving chain of colored circles")
+    print("Hello World!")
+    
     balloons = {}
     count = 0
     
